@@ -1,4 +1,14 @@
-## Hi there 👋
+### Hi there 👋
+
+I'm Vincent, an incoming CS student at the University of Washington. I am interested in AI, game development, robotics, and startups!
+
+<p align="center"> <a href="https://github.com/yandaboa"><img src="https://github-profile-trophy.vercel.app/?username=yandaboa&theme=juicyfresh&title=Commit,Joined2020,Experience,PullRequest" alt="yandaboa" /></a> </p>
+
+- 🔭 I’m currently developing my own game and building AI services for a startup.
+- 🌱 I’m currently learning game development techniques and neural networks
+- 📫 Reach me on LinkedIn: www.linkedin.com/in/yunbo-shao-074a45167
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yandaboa&theme=dark" alt="yandaboa" /></p>
 
 <!--
 **VincentShao32/VincentShao32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
