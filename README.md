@@ -2,10 +2,6 @@
 
 I'm Vincent, a student researcher at Ai2 and a CS student at the University of Washington.
 
-<p align="center"> <a href="https://github.com/VincentShao32"><img src="https://github-profile-trophy.vercel.app/?username=VincentShao32&theme=juicyfresh&title=Commit,Joined2020,Experience,Repositories" alt="VincentShao32" /></a> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VincentShao32&theme=dark" alt="VincentShao32" /></p>
-
 
 <!--
 **VincentShao32/VincentShao32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
