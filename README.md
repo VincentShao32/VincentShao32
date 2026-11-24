@@ -1,12 +1,8 @@
 ### Hi there 👋
 
-I'm Vincent, an incoming CS student at the University of Washington. I am interested in AI, game development, robotics, and startups!
+I'm Vincent, a student researcher at Ai2 and a CS student at the University of Washington.
 
 <p align="center"> <a href="https://github.com/VincentShao32"><img src="https://github-profile-trophy.vercel.app/?username=VincentShao32&theme=juicyfresh&title=Commit,Joined2020,Experience,Repositories" alt="VincentShao32" /></a> </p>
-
-- 🔭 I’m currently developing my own game and building AI services for a startup.
-- 🌱 I’m currently learning game development techniques and neural networks
-- 📫 Reach me on LinkedIn: www.linkedin.com/in/yunbo-shao-074a45167
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VincentShao32&theme=dark" alt="VincentShao32" /></p>
 
