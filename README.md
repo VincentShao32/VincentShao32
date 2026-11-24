@@ -1,19 +1,12 @@
 ### Hi there 👋
 
-I'm Vincent, a student researcher at Ai2 and a CS student at the University of Washington.
+I'm Vincent, a CS undergrad at the University of Washington doing ML research in computer vision, robotics, and NLP.
 
+- 🔬 Student researcher on the robotics team at [Ai2](https://allenai.org/)
+- 🤖 Recently released [**RoboTrack**](https://robotrack.allen.ai), a benchmark and training suite for point tracking in real-world robotic manipulation ([paper](https://allenai.org/papers/robotrack) · [code](https://github.com/allenai/robotrack))
+- 🎯 Contributed to [**Molmo 2**](https://github.com/allenai/molmo2) (CVPR 2026, oral), working on object tracking and multi-view pointing
+- 💼 Incoming MLE intern at Jane Street (summer 2027); previously interned at Databricks and AWS
+- 🛠️ JAX, CUDA, Spark, Delta Lake, Iceberg
+- 🧗 Outside of work: climbing, skiing, and cooking
 
-<!--
-**VincentShao32/VincentShao32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 [yunbos@uw.edu](mailto:yunbos@uw.edu) · [Website](https://vincentshao32.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=3f8NQV0AAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/vincent-shao-074a45167)
